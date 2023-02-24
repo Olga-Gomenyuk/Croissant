@@ -1,7 +1,8 @@
 body {
     background-color: rgb(255, 243, 189);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-max-width: 700px;
+    max-width: 700px;
+    margin: 0 auto;
 }
 
 h1 {
